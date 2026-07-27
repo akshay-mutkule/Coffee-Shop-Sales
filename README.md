@@ -8,11 +8,8 @@ A professional **Coffee Shop Sales Analysis Dashboard** built using **Microsoft 
 
 > Coffee Shop Sales Dashboard
 
-*(Add the dashboard screenshot here after uploading it to your repository.)*
+Coffee Shop sales img.jpeg
 
-```md
-![Coffee Shop Sales Dashboard](dashboard.png)
-```
 
 ---
 
