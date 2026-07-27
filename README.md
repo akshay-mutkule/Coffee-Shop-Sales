@@ -7,7 +7,6 @@ A professional **Coffee Shop Sales Analysis Dashboard** built using **Microsoft 
 ## 📊 Dashboard Preview
 
 > Coffee Shop Sales Dashboard
-
 Coffee Shop sales img.jpeg
 
 
